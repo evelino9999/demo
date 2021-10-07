@@ -1,4 +1,10 @@
-[
+{
+  "links": {
+    "discord": "frack#9154",
+    "youtube": "https://www.youtube.com/c/Frackk",
+    "steam": "https://steamcommunity.com/id/773/"
+  },
+  "videos": [
   {
     "id": "1",
     "src": "UVoXbAPY8Dk"
@@ -44,3 +50,4 @@
     "src": "lQqG6JfSNuY"
   }
 ]
+}
